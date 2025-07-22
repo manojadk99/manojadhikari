@@ -14,7 +14,7 @@
 - Tools: Git & GitHub, VS Code, Jupyter Notebook
 - Currently exploring: Web development, Data structures, and Algorithms
 
-## 🔭 Goals
+## Goals
 - Improve in software development and computer science theory
 - Build and share full-stack and algorithmic projects
 - Learn more about systems design, databases, and cloud technologies
